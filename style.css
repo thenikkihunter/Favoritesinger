@@ -1,0 +1,37 @@
+/* myStyle.css */
+
+body {
+    background-color:#E9C5F1;
+    
+   }
+
+   h2 title{
+       color:#8b8ee6;
+   }
+
+   p {
+    background-color:#9cecf1;
+    color: #333300;
+    text-align: center;
+    border: 3px groove #DDF7F9;
+    border-color: #000000;
+   }
+
+
+   table, tr, td {
+    border: 1px solid black;
+  }
+   
+
+  h1 {
+    text-align: center
+  }
+
+  img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 40%;
+}
+
+
